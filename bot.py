@@ -53,7 +53,7 @@ def webhook():
     MACHINE.run()
     MACHINE.transition(parsed)
     #except:
-        # Botón de "Empezar" seleccionado
+      #  Botón de "Empezar" seleccionado
     #print('EMPEZAR')
     #send_message(parsed['CONTEXT']['user_id'], 'Hola!!!!')
 
