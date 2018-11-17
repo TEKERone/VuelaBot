@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-export VERIFY_TOKEN='mybot2018'
+export VERIFY_TOKEN='mybot'
 export PAGE_ACCESS_TOKEN='EAAGbWBf6ZCF8BABpMAPfWpW0vTdPeRaN7iibjXXyiHVw5ZAAvQgwZCgu5cAsqUfhN3eWZBFwMdhYNkqKfmZAFPkcjPWZBbOiLmh0pgPhEf55e4hH3w8SQGKxA1pwZCzwtNASs12Ugr3P6m0qJkXubN0NmjZCUkuUCOSM8idVBml9o0ZAPee9PXovc'
 
 # Get started message
