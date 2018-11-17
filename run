@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 
 export VERIFY_TOKEN='mybot2018'
-export PAGE_ACCESS_TOKEN='EAAUOdz41bH4BAFwcVxPZA1LvDI1LaHiBBYgWnRXHQ5nXHuG5bg7m8v91iYyUpeQqtDf6Nep5ZCyRZCzXZC6Y0JY5BPjEv371tBgysfqLZCOZCB8qHqJ4aDM5idZBdXgyF8RcXPwpZCDN6N4dWMPwdMr2ibmdSDPZA1Wia3x861JNSxFFbKbayHnlL'
+export PAGE_ACCESS_TOKEN='EAAGbWBf6ZCF8BABpMAPfWpW0vTdPeRaN7iibjXXyiHVw5ZAAvQgwZCgu5cAsqUfhN3eWZBFwMdhYNkqKfmZAFPkcjPWZBbOiLmh0pgPhEf55e4hH3w8SQGKxA1pwZCzwtNASs12Ugr3P6m0qJkXubN0NmjZCUkuUCOSM8idVBml9o0ZAPee9PXovc'
 
 # Get started message
 curl -X POST -H "Content-Type: application/json" -d '{
