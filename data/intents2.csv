@@ -1,0 +1,39 @@
+hola,saludo
+como estas ,afirmativo
+que onda,saludo
+hola que tal,saludo
+hola como te va ,pregunta
+adios,despedida
+bye,despedida
+goodbye,despedida
+hay los vidrios,despedida
+nos vemos ,despedida
+buen dia,afirmativo
+buen día,saudo
+hasta luego,despedida
+clima,informacion_del_clima
+dame el clima,informacion_del_clima
+tiempo,informacion_hora
+dame la hora,tiempo
+informacion del clima,informacion_del_clima
+cheves,tomar
+cervezas ,comprar_cevezas
+vamos a tomar,cervezas
+queja,aclaracion
+si ,afirmativo
+claro,afirmativo
+efectivamente,afirmativo
+que si,afirmativo
+correcto,afirmativo
+es correcto,afirmativo
+exacto,afirmativo
+no,negativo
+que no,negativo
+incorrecto,negativo
+claro que no ,negativo
+error,negativo
+never,negativo
+nel,negativo
+que no cabron,insulto
+te voy a madrear,corre_escondete_haste bolita
+reemboso,queja

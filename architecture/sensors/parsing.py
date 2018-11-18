@@ -15,7 +15,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from architecture.sensors.cleaning import NLCleaner, remove_accents
 
 CLEANER = NLCleaner()
-VECTORIZER = TfidfVectorizer(analyzer='char',
+VECTORIZER = TfidfVectorizer(analyzer='word',
                              tokenizer=CLEANER.remove_stopwords_text,
                              ngram_range=(2, 4))
 
@@ -34,7 +34,7 @@ class NLParser:
             else:
                 self.intents = pd.read_csv(intent_data,
                                            names=['DOC', 'INTENT'],
-                                           encoding='utf-8')
+                                           encoding='utf-8', header=None)
             self._build_intents()
 
     def _group_intents(self):

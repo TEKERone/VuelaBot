@@ -11,7 +11,7 @@ from architecture.sensors.parsing import NLParser
 class FSM:
     """Máquina de estados
     """
-    def __init__(self, current_state, intent_data='data/intents.csv'):
+    def __init__(self, current_state, intent_data='data/intents2.csv'):
         # compatibilidad
         assert isinstance(current_state, State)
 
